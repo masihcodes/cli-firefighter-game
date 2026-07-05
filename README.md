@@ -26,11 +26,15 @@ Built with **Software Engineering best practices**, this project demonstrates cl
 
 ---
 
+## LIVE AT: https://cli-firefighter-game.onrender.com/
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/firefighter-rescue-simulator.git](https://github.com/YOUR_USERNAME/firefighter-rescue-simulator.git)
+git https://github.com/masihcodes/cli-firefighter-game.git
 cd firefighter-rescue-simulator
 ```
