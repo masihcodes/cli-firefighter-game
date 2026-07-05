@@ -13,4 +13,4 @@ COPY . /app
 
 RUN python generate_maps.py
 
-CMD ["sh", "-c", "ttyd -p $PORT python FirefighterGame.py"]
+CMD ["sh", "-c", "ttyd -W -p $PORT python FirefighterGame.py"]
