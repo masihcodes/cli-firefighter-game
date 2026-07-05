@@ -26,7 +26,7 @@ Built with **Software Engineering best practices**, this project demonstrates cl
 
 ---
 
-## LIVE AT: https://cli-firefighter-game.onrender.com/
+### LIVE AT: https://cli-firefighter-game.onrender.com/
 
 ---
 
